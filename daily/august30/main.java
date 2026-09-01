@@ -15,5 +15,13 @@ public class main {
 
         System.out.println("Minimum distance: " + result[0]);
         System.out.println("Maximum distance: " + result[1]);
+         
+        // Test case with no critical points
+        ListNode head2 = new ListNode(1);
+        head2.next = new ListNode(2);
+        int[] result2 = solution.nodesBetweenCriticalPoints(head2);
+        System.out.println("Minimum distance: " + result2[0]);
+        System.out.println("Maximum distance: " + result2[1]);  
+        
     }
 }

@@ -6,8 +6,14 @@ A collection of daily problem solutions and practice notes.
 
 - Daily problems
   - August 30
+  - August 31
 - Recursions
 - Dynamic Programming
+
+## August 30 - 2058. Find the Maximum Number of Nodes Between Critical Points
+## August 31 - 3568. Minimum Moves to Clean the Classroom
+
+
 
 ## Notes
 
