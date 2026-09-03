@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class MinMovesSolution {
     static class State {
         int r, c, energy, mask, steps;
         State(int r, int c, int energy, int mask, int steps) {

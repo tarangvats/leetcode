@@ -1,6 +1,6 @@
-public class main {
+public class MinMoves {
     public static void main(String[] args) {
-        Solution solution = new Solution();
+        MinMovesSolution solution = new MinMovesSolution();
         String[] classroom = {
             "S..L",
             ".#..",

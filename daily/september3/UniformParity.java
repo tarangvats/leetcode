@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class main {
+class UniformParity {
     public static void main(String[] args) {
         UniformParitySolution solution = new UniformParitySolution();
 

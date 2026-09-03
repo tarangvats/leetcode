@@ -1,4 +1,4 @@
-public class main {
+public class CriticalPoint {
     public static void main(String[] args) {
         ListNode head = new ListNode(1);
         head.next = new ListNode(3);
@@ -10,7 +10,7 @@ public class main {
         head.next.next.next.next.next.next.next = new ListNode(2);
         head.next.next.next.next.next.next.next.next = new ListNode(1);
 
-        Solution solution = new Solution();
+        CriticalPointSolution solution = new CriticalPointSolution();
         int[] result = solution.nodesBetweenCriticalPoints(head);
 
         System.out.println("Minimum distance: " + result[0]);
