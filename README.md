@@ -26,6 +26,12 @@ A collection of daily problem solutions and practice notes.
 - [Dynamic Programming](dynamicProgramming)
 - [Recursions](recursions)
 
+## Recursion Problems
+
+| Problem | Notes | Java solution |
+| --- | --- | --- |
+| [21. Merge Two Sorted Lists](recursions/mergeSortedLinkedList/21.md) | [21.md](recursions/mergeSortedLinkedList/21.md) | [MergeSortedLinkedList.java](recursions/mergeSortedLinkedList/MergeSortedLinkedList.java) |
+
 ## Notes
 
 - This repository is used for solving and documenting coding interview problems.
