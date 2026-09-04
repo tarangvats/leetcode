@@ -9,6 +9,7 @@ A collection of daily problem solutions and practice notes.
   - August 31
   - September 2
   - September 3
+  - September 4
 - Recursions
 - Dynamic Programming
 
@@ -20,6 +21,7 @@ A collection of daily problem solutions and practice notes.
 | August 31 | [3568. Minimum Moves to Clean the Classroom](daily/august31/3658.md) | [3658.md](daily/august31/3658.md) | [MinMoves.java](daily/august31/MinMoves.java) |
 | September 2 | [5. Longest Palindromic Substring](daily/september2/5.md) | [5.md](daily/september2/5.md) | [LongestPalindrome.java](daily/september2/LongestPalindrome.java) |
 | September 3 | [3876. Construct Uniform Parity Array II](daily/september3/3876.md) | [3876.md](daily/september3/3876.md) | [UniformParity.java](daily/september3/UniformParity.java) |
+| September 4 | [3903. Find the Smallest Stable Index](daily/september4/3903.md) | [3903.md](daily/september4/3903.md) | [SmallestStableIndex.java](daily/september4/SmallestStableIndex.java) |
 
 ## Practice Areas
 
