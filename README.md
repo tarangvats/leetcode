@@ -12,6 +12,9 @@ A collection of daily problem solutions and practice notes.
   - September 4
   - September 5
   - September 6
+  - September 7
+  - September 8
+  - September 9
 - Recursions
 - Dynamic Programming
 
@@ -26,6 +29,9 @@ A collection of daily problem solutions and practice notes.
 | September 4 | [3903. Find the Smallest Stable Index](daily/september4/3903.md) | [3903.md](daily/september4/3903.md) | [SmallestStableIndex.java](daily/september4/SmallestStableIndex.java) |
 | September 5 | [3904. Find the Smallest Stable Index II](daily/september5/3904.md) | [3904.md](daily/september5/3904.md) | [SmallestStableIndex2.java](daily/september5/SmallestStableIndex2.java) |
 | September 6 | [115. Distinct Subsequences](daily/september6/115.md) | [115.md](daily/september6/115.md) | [DistinctSubsequence.java](daily/september6/DistinctSubsequence.java) |
+| September 7 | [940. Distinct Subsequences II](daily/september7/940.md) | [940.md](daily/september7/940.md) | [DistinctSubsequence2.java](daily/september7/DistinctSubsequence2.java) |
+| September 8 | [3870. Count Commas in Range](daily/september8/3870.md) | [3870.md](daily/september8/3870.md) | [CountCommas.java](daily/september8/CountCommas.java) |
+| September 9 | [3871. Count Commas in Range II](daily/september9/3871.md) | [3871.md](daily/september9/3871.md) | [CountCommas2.java](daily/september9/CountCommas2.java) |
 
 ## Practice Areas
 
