@@ -17,6 +17,8 @@ A collection of daily problem solutions and practice notes.
   - September 9
   - September 16
   - September 17
+  - September 18
+  - September 19
 - Recursions
 - Disjoint Set Union
 - Dynamic Programming
@@ -37,6 +39,8 @@ A collection of daily problem solutions and practice notes.
 | September 9 | [3871. Count Commas in Range II](daily/september9/3871.md) | [3871.md](daily/september9/3871.md) | [CountCommas2.java](daily/september9/CountCommas2.java) |
 | September 16 | [1621. Number of Sets of K Non-Overlapping Line Segments](daily/september16/1621.md) | [1621.md](daily/september16/1621.md) | [KNonOverlap.java](daily/september16/KNonOverlap.java) |
 | September 17 | [1477. Find Two Non-overlapping Sub-arrays Each With Target Sum](daily/september17/1477.md) | [1477.md](daily/september17/1477.md) | [TwoNonOverlappingArray.java](daily/september17/TwoNonOverlappingArray.java) |
+| September 18 | [1520. Maximum Number of Non-Overlapping Substrings](daily/september18/1520.md) | [1520.md](daily/september18/1520.md) | — |
+| September 19 | [1401. Circle and Rectangle Overlapping](daily/september19/1401.md) | [1401.md](daily/september19/1401.md) | — |
 
 ## Practice Areas
 
