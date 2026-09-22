@@ -19,6 +19,7 @@ public class TwoNonOverlappingArray {
         int answer = infinity;
         int left = 0;
         int windowSum = 0;
+        bestBefore[0] = infinity;
 
         for (int right = 0; right < n; right++) {
             windowSum += arr[right];
@@ -27,9 +28,8 @@ public class TwoNonOverlappingArray {
                 windowSum -= arr[left++];
             }
 
-            bestBefore[right] = right == 0
-                    ? infinity
-                    : bestBefore[right - 1];
+            if(right>0)
+                bestBefore[right] = bestBefore[right - 1];
 
             if (windowSum == target) {
                 int currentLength = right - left + 1;
