@@ -22,6 +22,7 @@ A collection of daily problem solutions and practice notes.
 - Recursions
 - Disjoint Set Union
 - Dynamic Programming
+- LRU Cache
 
 ## Daily Problems
 
@@ -47,6 +48,7 @@ A collection of daily problem solutions and practice notes.
 - [Dynamic Programming](dynamicProgramming)
 - [Recursions](recursions)
 - [Disjoint Set Union](disjointSet)
+- [LRU Cache](LRUCache)
 
 ## Recursion Problems
 
