@@ -19,6 +19,9 @@ A collection of daily problem solutions and practice notes.
   - September 17
   - September 18
   - September 19
+  - September 20
+  - September 21
+  - September 22
 - Recursions
 - Disjoint Set Union
 - Dynamic Programming
@@ -42,6 +45,9 @@ A collection of daily problem solutions and practice notes.
 | September 17 | [1477. Find Two Non-overlapping Sub-arrays Each With Target Sum](daily/september17/1477.md) | [1477.md](daily/september17/1477.md) | [TwoNonOverlappingArray.java](daily/september17/TwoNonOverlappingArray.java) |
 | September 18 | [1520. Maximum Number of Non-Overlapping Substrings](daily/september18/1520.md) | [1520.md](daily/september18/1520.md) | — |
 | September 19 | [1401. Circle and Rectangle Overlapping](daily/september19/1401.md) | [1401.md](daily/september19/1401.md) | — |
+| September 20 | [3498. Reverse Degree of a String](daily/september20/3498.md) | [3498.md](daily/september20/3498.md) | — |
+| September 21 | [3524. Find X Value of Array](daily/september21/3524.md) | [3524.md](daily/september21/3524.md) | — |
+| September 22 | [3525. Find X Value of Array II](daily/september22/3525.md) | [3525.md](daily/september22/3525.md) | — |
 
 ## Practice Areas
 
