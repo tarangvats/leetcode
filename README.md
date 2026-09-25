@@ -23,6 +23,7 @@ A collection of daily problem solutions and practice notes.
   - September 21
   - September 22
   - September 23
+  - September 24
 - Recursions
 - Disjoint Set Union
 - Dynamic Programming
@@ -50,6 +51,7 @@ A collection of daily problem solutions and practice notes.
 | September 21 | [3524. Find X Value of Array](daily/september21/3524.md) | [3524.md](daily/september21/3524.md) | — |
 | September 22 | [3525. Find X Value of Array II](daily/september22/3525.md) | [3525.md](daily/september22/3525.md) | — |
 | September 23 | [1658. Minimum Operations to Reduce X to Zero](daily/september23/1658.md) | [1658.md](daily/september23/1658.md) | — |
+| September 24 | [1096. Brace Expansion II](daily/september24/1096.md) | [1096.md](daily/september24/1096.md) | [BraceExpansionII.java](daily/september24/BraceExpansionII.java) |
 
 ## Practice Areas
 
